@@ -1,5 +1,5 @@
 # Porject Name: Lions and Tigers and Bears, Oh My!
-Project created by Karen Villasenor
+Project created by Karen Villasenor,
 All credit goes to Brad Schiff. 
 
 This project was made following Brad Schiff’s tutorial titled “Dogs, JavaScript & An API 🐶 Fetch, Promises & Async Await” on Youtube. 
